@@ -1,0 +1,30 @@
+{
+    "income": [
+        {
+            "salary": 80000.00,
+            "frequency": "yearly"
+        },
+        {
+            "rental property": 250.00,
+            "frequency": "monthly"
+        },
+        {
+            "dividends": 3500.00,
+            "frequency": "quarterly"
+        }
+    ],
+    "expenses": [
+        {
+            "expense1": 250.00
+        },
+        {
+            "expense2": 800.00
+        },
+        {
+            "expense3": 170.00
+        },
+        {
+            "expense4": 270.00
+        }
+    ]
+}
